@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data lastId="5">
+    <userList>
+        <user id="1">
+            <password>{bcrypt}$2a$10$lxbReA.tM.9h7TVizSb9VOvXcVNU88gOqC/L7lqS3HDnxzYJ3FSpa</password>
+            <username>loh</username>
+            <roleList>
+                <role>ROLE_USER</role>
+            </roleList>
+        </user>
+        <user id="2">
+            <password>{bcrypt}$2a$10$lxbReA.tM.9h7TVizSb9VOvXcVNU88gOqC/L7lqS3HDnxzYJ3FSpa</password>
+            <username>loh1</username>
+            <roleList>
+                <role>ROLE_USER</role>
+            </roleList>
+        </user>
+        <user id="3">
+            <password>{bcrypt}$2a$10$lxbReA.tM.9h7TVizSb9VOvXcVNU88gOqC/L7lqS3HDnxzYJ3FSpa</password>
+            <username>Maxim</username>
+            <roleList>
+                <role>ROLE_USER</role>
+                <role>ROLE_ADMIN</role>
+            </roleList>
+        </user>
+        <user id="4">
+            <password>{bcrypt}$2a$10$lxbReA.tM.9h7TVizSb9VOvXcVNU88gOqC/L7lqS3HDnxzYJ3FSpa</password>
+            <username>Maxim1</username>
+            <roleList>
+                <role>ROLE_USER</role>
+            </roleList>
+        </user>
+        <user id="5">
+            <password>{bcrypt}$2a$10$lxbReA.tM.9h7TVizSb9VOvXcVNU88gOqC/L7lqS3HDnxzYJ3FSpa</password>
+            <username>Max123im1</username>
+            <roleList>
+                <role>ROLE_USER</role>
+            </roleList>
+        </user>
+    </userList>
+</data>

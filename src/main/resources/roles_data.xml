@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data>
+    <roleList>
+        <role>
+            <name>ROLE_ADMIN</name>
+            <privilegeList>
+                <privilege>DELETE_SPEAKER</privilege>
+                <privilege>ADD_SPEAKER</privilege>
+                <privilege>DELETE_SPEAKER</privilege>
+                <privilege>ACCESS_USER_LIST</privilege>
+                <privilege>CAN_DEAD</privilege>
+                <privilege>SMOKING_CIGARETTES</privilege>
+                <privilege>SUBMIT_SPEAKER</privilege>
+            </privilegeList>
+        </role>
+        <role>
+            <name>ROLE_USER</name>
+            <privilegeList>
+                <privilege>SUBMIT_SPEAKER</privilege>
+                <privilege>ACCEPT_INVITE</privilege>
+                <privilege>GET_SPEAKER_LIST</privilege>
+                <privilege>CREATE_CONFERENCE</privilege>
+                <privilege>GET_RESERVED_TIME</privilege>
+            </privilegeList>
+        </role>
+    </roleList>
+</data>
